@@ -1,0 +1,4 @@
+.metadata/
+*.prefs
+java01/.project
+java01/.classpath
